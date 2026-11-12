@@ -1,8 +1,0 @@
-SMART TRAIRI — SITE INSTITUCIONAL
-
-1. Extraia os arquivos mantendo a pasta "assets" junto do index.html.
-2. Abra index.html no navegador para visualizar.
-3. Publique tudo (index.html, style.css, script.js, favicon.ico e pasta assets) em uma hospedagem (Netlify, Vercel ou servidor próprio).
-4. WHATSAPP: abra script.js e preencha WHATSAPP_NUMBER (DDI + DDD + número, só dígitos, ex.: 5588999999999).
-   Isso ativa o cartão de WhatsApp e o botão flutuante automaticamente. Enquanto estiver vazio, o cartão aponta para o Instagram.
-5. A logo oficial está em assets/logo.png (alta resolução) e assets/logo-small.png (usada no site).
